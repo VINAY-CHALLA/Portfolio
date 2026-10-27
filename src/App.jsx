@@ -27,7 +27,7 @@ const profile = {
   github: "https://github.com/VINAY-CHALLA",
   linkedin: "https://www.linkedin.com/in/challa-vinay",
   hackerrank: "https://www.hackerrank.com/profile/ece_19121a0436",
-  resumeUrl: "/Vinay_Challa_Java_Backend_Developer_Resume.pdf",
+  resumeUrl: "/Vinay_Challa_Software_Engineer.pdf",
   gmailCompose:
     "https://mail.google.com/mail/?view=cm&fs=1&to=vinaychalla2517%40gmail.com",
 };
